@@ -1,7 +1,7 @@
 {
   "name": "datocms-plugin-spreadsheet-record-exporter",
   "license": "GPL-3.0-or-later",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "homepage": "https://github.com/chailandau/datocms-plugin-spreadsheet-record-exporter",
   "description": "A plugin that allows you to export records as a spreadsheet via your project's DatoCMS Dashboard.",
